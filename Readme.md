@@ -6,9 +6,9 @@ This land-use classifier was developed using EuroSAT satellite data with the int
 
 Note: this notebook was written for Google Colab, ans won't run as-written in Jupyter.
 
-## Dat
+## Data
 
 This classifier was trained on the [EuroSAT RBG Dataset from Helber et. al.](https://github.com/phelber/EuroSAT)
 
-New satellite data was retrieved from EEOP's Sentinel-2 Satellite. This is the same satellite data used in EuroSAT and is processed in the same way.
+New satellite data was retrieved from the Sentinel-2 satellite. This is the same satellite data used in EuroSAT and is processed in the same way.
 
