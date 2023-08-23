@@ -1,4 +1,4 @@
-# EuroSAt Classifier and Application to Detect Deforestation in Indonesia
+# EuroSat Classifier and Application to Detect Deforestation in Indonesia
 
 ## Short Description
 
